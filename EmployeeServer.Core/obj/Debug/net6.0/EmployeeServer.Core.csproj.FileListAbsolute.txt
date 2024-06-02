@@ -1,0 +1,75 @@
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\refint\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\ref\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.sourcelink.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\refint\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\ref\EmployeeServer.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.deps.json
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\refint\EmployeeServer.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\ref\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.sourcelink.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\refint\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\ref\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.sourcelink.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\refint\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\ref\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\refint\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeServer.Core\obj\Debug\net6.0\ref\EmployeeServer.Core.dll

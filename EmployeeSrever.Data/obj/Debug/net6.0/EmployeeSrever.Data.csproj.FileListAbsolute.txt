@@ -1,0 +1,105 @@
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.runtimeconfig.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\Employee.ABC90A5F.Up2Date
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\refint\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.genruntimeconfig.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\ref\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.runtimeconfig.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.sourcelink.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\Employee.ABC90A5F.Up2Date
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\refint\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.genruntimeconfig.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\שלי טוב --בגיט\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\ref\EmployeeSrever.Data.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.deps.json
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.runtimeconfig.json
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.pdb
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfo.cs
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.CopyComplete
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\refint\EmployeeSrever.Data.dll
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.pdb
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.genruntimeconfig.cache
+Y:\Groups\Group_3\ווייל  בתיה\PracticumProject\server .Net\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\ref\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.runtimeconfig.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.sourcelink.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\Employee.ABC90A5F.Up2Date
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\refint\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.genruntimeconfig.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\לא בגיט לפי שרי\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\ref\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.runtimeconfig.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.sourcelink.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\Employee.ABC90A5F.Up2Date
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\refint\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.genruntimeconfig.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\PracticumProject\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\ref\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.runtimeconfig.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\bin\Debug\net6.0\EmployeeServer.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\Employee.ABC90A5F.Up2Date
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\refint\EmployeeSrever.Data.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\EmployeeSrever.Data.genruntimeconfig.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקום\github\מפוצל\EmployeeServer\EmployeeSrever.Data\obj\Debug\net6.0\ref\EmployeeSrever.Data.dll
